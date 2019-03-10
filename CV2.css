@@ -1,0 +1,84 @@
+@media screen and (max-width: 1200px)
+{
+    .left {
+        width:20%;
+        font-size: 0.70em;
+        height:auto;
+    }
+
+    .left img#profileft {
+        width:100px;
+        height:100px;
+    }
+
+    .left li {
+        margin-left: -20px;
+    }
+
+    .left #lecture,#sport {
+        margin-left: -20px;
+    }
+
+    .left .marge {
+        margin-left: -40px;
+    }
+
+    .right {
+        width:75%;
+            }
+
+    .right {
+    box-shadow: 10px 7px 5px black;
+    }
+
+    .right {
+        font-size:0.8em;
+    }
+
+    .right img {
+        display:none;
+    }
+
+    #header {
+        font-size: 0.85em;
+    }
+
+    #header img#profil {
+        width:100px;
+        height:80px;
+    }
+
+    #profileft {
+        width:50px;
+        height:50px;
+    }
+
+    .right hr {
+        width:350px;
+    }
+
+    div.left hr {
+        width:80px;
+    }
+    
+    hr#espace {
+        width:350px;
+        border:none;
+    }
+
+    div#scolaire p{
+        padding: 0px;
+        display:inline-block;
+    }
+
+    div#footer > div {
+        width:32%;
+        font-size:0.7em;
+    }
+
+    div#footer > div img {
+        display:none;
+        height: auto;
+    }
+
+}
